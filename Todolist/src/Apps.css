@@ -1,0 +1,17 @@
+h1{
+    font-weight: 800;
+    font-size: 100px;
+    margin: 100px;
+}
+.as-row{
+    padding-top: 10px;
+}
+.as-left{
+  text-align: left;
+}
+input{
+    width: 100%;
+}
+.butt{
+    min-width: 90px;
+}
