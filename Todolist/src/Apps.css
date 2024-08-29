@@ -1,14 +1,15 @@
 h1{
-    font-weight: 800;
-    font-size: 100px;
-    margin: 100px;
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
 }
 .as-row{
-    padding-top: 10px;
+margin: 10px 5px;
 }
 .as-left{
-  text-align: left;
-}
+    text-align: left;
+  }
 input{
     width: 100%;
 }

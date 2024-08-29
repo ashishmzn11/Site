@@ -1,7 +1,8 @@
+
 function Apphad() {
   return (
     <div>
-      <h1>ToDo List</h1>
+      <h1>To Do List</h1>
     </div>
   );
 }
